@@ -1,2 +1,3 @@
-# questoes-imagens
-Prints dos enunciados dos exercícios para o Projeto do TCC
+# Banco de Imagens
+
+Prints dos enunciados dos exercícios para o Projeto do Trabalho de Conclusão de Curso do Curso Técnico em Desenvolvimento de Sistemas do SENAI/Cimatec.
